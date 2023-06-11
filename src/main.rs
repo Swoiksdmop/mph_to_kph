@@ -15,5 +15,5 @@ fn main() {
 
     let formula = mph_input * 1.61;
 
-    println!("{mph_input} mp/h is {formula} kp/h\nThank you for using this program, if any issues, email me at kigangadarell@gmail.com");
+    println!("{mph_input} mp/h is {formula} kp/h\nIf you find issues, email me at kigangadarell@gmail.com");
 }
